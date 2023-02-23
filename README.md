@@ -1,4 +1,3 @@
-<!-- - 👋 Hi, I’m @TiagoTrelles
 Bem vindos ao meu perfil no github, meu nome é Tiago Trelles estudo desenvolvimento web na trybe. 
 
 <!---
