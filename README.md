@@ -1,4 +1,4 @@
-Bem vindos ao meu perfil no github, meu nome é Tiago Trelles estudo desenvolvimento web na trybe. 
+Bem vindos ao meu perfil no github, meu nome é Tiago Trelles e estou estudando desenvolvimento web na trybe. 
 
 <!---
 TiagoTrelles/TiagoTrelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
